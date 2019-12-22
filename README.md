@@ -1,4 +1,4 @@
-# [Github Finder](https://offers-sf.netlify.com/) :zap: ~ SalmanFahmi-IT
+# [Offers website](https://offers-sf.netlify.com/) :zap: ~ SalmanFahmi-IT
 
 ![github.jpg](https://raw.githubusercontent.com/SalmanFahmi-IT/offers-website/master/screenshot.PNG)
 
