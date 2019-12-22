@@ -1,0 +1,58 @@
+[ 
+    { 
+       "_id":1,
+       "city":"Casablanca",
+       "name":"Responsable commercial en Télécommunication.",
+       "company":"Sage",
+       "createdAt":"2018-10-30T13:09:47.000Z",
+       "description":"Dans un contexte varié vos principales missions consistent à Contribuer à la définition des spécifications générales et à l'estimation des charges. Réaliser l'analyse technique et l'étude détaillée. Élaborer les jeux d'essais pour les tests unitaires d'intégration"
+    },
+    { 
+       "_id":2,
+       "city":"Casablanca",
+       "name":"DÉVELOPPEUR WEB SENIOR",
+       "company":"Brand name",
+       "createdAt":"2018-11-05T12:09:47.000Z",
+       "description":"Dans un contexte varié vos principales missions consistent à Contribuer à la définition des spécifications générales et à l'estimation des charges. Réaliser l'analyse technique et l'étude détaillée. Élaborer les jeux d'essais pour les tests unitaires d'intégration"
+    },
+    { 
+       "_id":3,
+       "city":"Rabat",
+       "name":"Développeur C#",
+       "company":"Brand name",
+       "createdAt":"2018-11-04T10:09:47.000Z",
+       "description":"Dans un contexte varié vos principales missions consistent à la mise en place de la maquette numérique de BYCN, le profil sera amené à rajouter des fonctionnalités sur la plateforme RevIT"
+    },
+    { 
+       "_id":4,
+       "city":"Casablanca",
+       "name":"Conseiller clientèle",
+       "company":"Sage",
+       "createdAt":"2018-11-05T12:09:47.000Z",
+       "description":"Dans un contexte varié vos principales missions consistent à Premier point de contact du Service client, votre rôle sera de prendre en charge les demandes de nos membres dans le respect de notre charte qualité et de nos engagements de service."
+    },
+    { 
+       "_id":5,
+       "city":"Casablanca",
+       "name":"Conseiller clientèle",
+       "company":"Nhome",
+       "createdAt":"2018-12-15T12:09:47.000Z",
+       "description":"Profil recherché: Avoir une expérience significative en tant que conseiller de clientèle; Maîtriser parfaitement l’Allemand aussi bien à l’oral qu’à l’écrit ;"
+    },
+    { 
+       "_id":6,
+       "city":"Tanger",
+       "name":"Chargé de missions",
+       "company":"Nhome",
+       "createdAt":"2018-12-16T12:10:47.000Z",
+       "description":"Vous êtes Diplômé d’une Grande Ecole de Commerce avec une spécialisation en Finance"
+    },
+    { 
+       "_id":7,
+       "city":"Casablanca",
+       "name":"Développeur Javascript Fullstack",
+       "company":"Brand name",
+       "createdAt":"2018-12-30T14:20:47.000Z",
+       "description":"Autonome et avec un bon esprit d'initiative, vous avez envie d'approfondir vos connaissances du language Javascript"
+    }
+ ]
